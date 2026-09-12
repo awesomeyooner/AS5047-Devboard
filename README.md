@@ -3,6 +3,13 @@ KiCAD project for breaking out the [AS5047P magnetic encoder](https://www.mouser
 
 This only breaks out the SPI, since that is what my main purpose of it was. This is an incredibly simple PCB, and was ordered via JLCPCB
 
+I ordered 5 assembled ones, and at the time the prices were
+
+- $3.10 for 5 PCBs
+- $32.31 for 5 PCBAs
+
+$35.41 total
+
 ## Pictures
 
 ![CAD-back](./docs/pics/CAD-back.png)
